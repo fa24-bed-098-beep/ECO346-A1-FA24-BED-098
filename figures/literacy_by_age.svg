@@ -1,0 +1,97 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<svg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' width='648.00pt' height='396.00pt' viewBox='0 0 648.00 396.00'>
+<g class='svglite'>
+<defs>
+  <style type='text/css'><![CDATA[
+    .svglite line, .svglite polyline, .svglite polygon, .svglite path, .svglite rect, .svglite circle {
+      fill: none;
+      stroke: #000000;
+      stroke-linecap: round;
+      stroke-linejoin: round;
+      stroke-miterlimit: 10.00;
+    }
+    .svglite text {
+      white-space: pre;
+    }
+    .svglite g.glyphgroup path {
+      fill: inherit;
+      stroke: none;
+    }
+  ]]></style>
+</defs>
+<rect width='100%' height='100%' style='stroke: none; fill: #FFFFFF;'/>
+<defs>
+  <clipPath id='cpMC4wMHw2NDguMDB8MC4wMHwzOTYuMDA='>
+    <rect x='0.00' y='0.00' width='648.00' height='396.00' />
+  </clipPath>
+</defs>
+<g clip-path='url(#cpMC4wMHw2NDguMDB8MC4wMHwzOTYuMDA=)'>
+<rect x='0.00' y='0.00' width='648.00' height='396.00' style='stroke-width: 1.16; stroke: none; fill: #FFFFFF;' />
+<polyline points='51.60,332.51 598.19,332.51 ' style='stroke-width: 1.16; stroke: #EBEBEB; stroke-linecap: butt;' />
+<polyline points='51.60,259.22 598.19,259.22 ' style='stroke-width: 1.16; stroke: #EBEBEB; stroke-linecap: butt;' />
+<polyline points='51.60,185.93 598.19,185.93 ' style='stroke-width: 1.16; stroke: #EBEBEB; stroke-linecap: butt;' />
+<polyline points='51.60,112.64 598.19,112.64 ' style='stroke-width: 1.16; stroke: #EBEBEB; stroke-linecap: butt;' />
+<polyline points='51.60,39.35 598.19,39.35 ' style='stroke-width: 1.16; stroke: #EBEBEB; stroke-linecap: butt;' />
+<polyline points='76.45,347.17 76.45,24.70 ' style='stroke-width: 1.16; stroke: #EBEBEB; stroke-linecap: butt;' />
+<polyline points='126.14,347.17 126.14,24.70 ' style='stroke-width: 1.16; stroke: #EBEBEB; stroke-linecap: butt;' />
+<polyline points='175.83,347.17 175.83,24.70 ' style='stroke-width: 1.16; stroke: #EBEBEB; stroke-linecap: butt;' />
+<polyline points='225.52,347.17 225.52,24.70 ' style='stroke-width: 1.16; stroke: #EBEBEB; stroke-linecap: butt;' />
+<polyline points='275.21,347.17 275.21,24.70 ' style='stroke-width: 1.16; stroke: #EBEBEB; stroke-linecap: butt;' />
+<polyline points='324.90,347.17 324.90,24.70 ' style='stroke-width: 1.16; stroke: #EBEBEB; stroke-linecap: butt;' />
+<polyline points='374.58,347.17 374.58,24.70 ' style='stroke-width: 1.16; stroke: #EBEBEB; stroke-linecap: butt;' />
+<polyline points='424.27,347.17 424.27,24.70 ' style='stroke-width: 1.16; stroke: #EBEBEB; stroke-linecap: butt;' />
+<polyline points='473.96,347.17 473.96,24.70 ' style='stroke-width: 1.16; stroke: #EBEBEB; stroke-linecap: butt;' />
+<polyline points='523.65,347.17 523.65,24.70 ' style='stroke-width: 1.16; stroke: #EBEBEB; stroke-linecap: butt;' />
+<polyline points='573.34,347.17 573.34,24.70 ' style='stroke-width: 1.16; stroke: #EBEBEB; stroke-linecap: butt;' />
+<polyline points='76.45,163.63 126.14,158.09 175.83,161.10 225.52,175.86 275.21,156.09 324.90,169.84 374.58,182.51 424.27,186.37 473.96,208.10 523.65,215.15 573.34,225.78 ' style='stroke-width: 1.71; stroke: #1F5A99; stroke-linecap: butt;' />
+<polyline points='76.45,228.49 126.14,250.46 175.83,263.89 225.52,260.51 275.21,280.67 324.90,275.33 374.58,293.81 424.27,305.96 473.96,311.50 523.65,304.33 573.34,312.47 ' style='stroke-width: 1.71; stroke: #C0392B; stroke-linecap: butt;' />
+<circle cx='76.45' cy='163.63' r='3.98' style='stroke-width: 1.56; stroke: none; fill: #1F5A99;' />
+<circle cx='76.45' cy='228.49' r='3.98' style='stroke-width: 1.56; stroke: none; fill: #C0392B;' />
+<circle cx='126.14' cy='158.09' r='3.98' style='stroke-width: 1.56; stroke: none; fill: #1F5A99;' />
+<circle cx='126.14' cy='250.46' r='3.98' style='stroke-width: 1.56; stroke: none; fill: #C0392B;' />
+<circle cx='175.83' cy='161.10' r='3.98' style='stroke-width: 1.56; stroke: none; fill: #1F5A99;' />
+<circle cx='175.83' cy='263.89' r='3.98' style='stroke-width: 1.56; stroke: none; fill: #C0392B;' />
+<circle cx='225.52' cy='175.86' r='3.98' style='stroke-width: 1.56; stroke: none; fill: #1F5A99;' />
+<circle cx='225.52' cy='260.51' r='3.98' style='stroke-width: 1.56; stroke: none; fill: #C0392B;' />
+<circle cx='275.21' cy='156.09' r='3.98' style='stroke-width: 1.56; stroke: none; fill: #1F5A99;' />
+<circle cx='275.21' cy='280.67' r='3.98' style='stroke-width: 1.56; stroke: none; fill: #C0392B;' />
+<circle cx='324.90' cy='169.84' r='3.98' style='stroke-width: 1.56; stroke: none; fill: #1F5A99;' />
+<circle cx='324.90' cy='275.33' r='3.98' style='stroke-width: 1.56; stroke: none; fill: #C0392B;' />
+<circle cx='374.58' cy='182.51' r='3.98' style='stroke-width: 1.56; stroke: none; fill: #1F5A99;' />
+<circle cx='374.58' cy='293.81' r='3.98' style='stroke-width: 1.56; stroke: none; fill: #C0392B;' />
+<circle cx='424.27' cy='186.37' r='3.98' style='stroke-width: 1.56; stroke: none; fill: #1F5A99;' />
+<circle cx='424.27' cy='305.96' r='3.98' style='stroke-width: 1.56; stroke: none; fill: #C0392B;' />
+<circle cx='473.96' cy='208.10' r='3.98' style='stroke-width: 1.56; stroke: none; fill: #1F5A99;' />
+<circle cx='473.96' cy='311.50' r='3.98' style='stroke-width: 1.56; stroke: none; fill: #C0392B;' />
+<circle cx='523.65' cy='215.15' r='3.98' style='stroke-width: 1.56; stroke: none; fill: #1F5A99;' />
+<circle cx='523.65' cy='304.33' r='3.98' style='stroke-width: 1.56; stroke: none; fill: #C0392B;' />
+<circle cx='573.34' cy='225.78' r='3.98' style='stroke-width: 1.56; stroke: none; fill: #1F5A99;' />
+<circle cx='573.34' cy='312.47' r='3.98' style='stroke-width: 1.56; stroke: none; fill: #C0392B;' />
+<line x1='275.21' y1='280.67' x2='275.21' y2='156.09' style='stroke-width: 1.16; stroke-dasharray: 1.55,4.66; stroke-linecap: butt;' />
+<text x='285.14' y='213.87' style='font-size: 12.00px; font-family: "Arimo";' textLength='128.70px' lengthAdjust='spacingAndGlyphs'>Largest gap: 42.5 points</text>
+<text x='285.14' y='231.15' style='font-size: 12.00px; font-family: "Arimo";' textLength='68.03px' lengthAdjust='spacingAndGlyphs'>(ages 30-34)</text>
+<text x='579.34' y='229.91' style='font-size: 12.00px; font-weight: bold;fill: #1F5A99; font-family: "Arimo";' textLength='24.00px' lengthAdjust='spacingAndGlyphs'>Men</text>
+<text x='584.12' y='316.60' style='font-size: 12.00px; font-weight: bold;fill: #C0392B; font-family: "Arimo";' textLength='43.11px' lengthAdjust='spacingAndGlyphs'>Women</text>
+<text x='46.22' y='335.81' text-anchor='end' style='font-size: 9.60px;fill: #4D4D4D; font-family: "Arimo";' textLength='13.86px' lengthAdjust='spacingAndGlyphs'>0%</text>
+<text x='46.22' y='262.52' text-anchor='end' style='font-size: 9.60px;fill: #4D4D4D; font-family: "Arimo";' textLength='19.19px' lengthAdjust='spacingAndGlyphs'>25%</text>
+<text x='46.22' y='189.23' text-anchor='end' style='font-size: 9.60px;fill: #4D4D4D; font-family: "Arimo";' textLength='19.19px' lengthAdjust='spacingAndGlyphs'>50%</text>
+<text x='46.22' y='115.94' text-anchor='end' style='font-size: 9.60px;fill: #4D4D4D; font-family: "Arimo";' textLength='19.19px' lengthAdjust='spacingAndGlyphs'>75%</text>
+<text x='46.22' y='42.66' text-anchor='end' style='font-size: 9.60px;fill: #4D4D4D; font-family: "Arimo";' textLength='24.52px' lengthAdjust='spacingAndGlyphs'>100%</text>
+<text x='76.45' y='359.15' text-anchor='middle' style='font-size: 9.60px;fill: #4D4D4D; font-family: "Arimo";' textLength='10.66px' lengthAdjust='spacingAndGlyphs'>12</text>
+<text x='126.14' y='359.15' text-anchor='middle' style='font-size: 9.60px;fill: #4D4D4D; font-family: "Arimo";' textLength='10.66px' lengthAdjust='spacingAndGlyphs'>17</text>
+<text x='175.83' y='359.15' text-anchor='middle' style='font-size: 9.60px;fill: #4D4D4D; font-family: "Arimo";' textLength='10.66px' lengthAdjust='spacingAndGlyphs'>22</text>
+<text x='225.52' y='359.15' text-anchor='middle' style='font-size: 9.60px;fill: #4D4D4D; font-family: "Arimo";' textLength='10.66px' lengthAdjust='spacingAndGlyphs'>27</text>
+<text x='275.21' y='359.15' text-anchor='middle' style='font-size: 9.60px;fill: #4D4D4D; font-family: "Arimo";' textLength='10.66px' lengthAdjust='spacingAndGlyphs'>32</text>
+<text x='324.90' y='359.15' text-anchor='middle' style='font-size: 9.60px;fill: #4D4D4D; font-family: "Arimo";' textLength='10.66px' lengthAdjust='spacingAndGlyphs'>37</text>
+<text x='374.58' y='359.15' text-anchor='middle' style='font-size: 9.60px;fill: #4D4D4D; font-family: "Arimo";' textLength='10.66px' lengthAdjust='spacingAndGlyphs'>42</text>
+<text x='424.27' y='359.15' text-anchor='middle' style='font-size: 9.60px;fill: #4D4D4D; font-family: "Arimo";' textLength='10.66px' lengthAdjust='spacingAndGlyphs'>47</text>
+<text x='473.96' y='359.15' text-anchor='middle' style='font-size: 9.60px;fill: #4D4D4D; font-family: "Arimo";' textLength='10.66px' lengthAdjust='spacingAndGlyphs'>52</text>
+<text x='523.65' y='359.15' text-anchor='middle' style='font-size: 9.60px;fill: #4D4D4D; font-family: "Arimo";' textLength='10.66px' lengthAdjust='spacingAndGlyphs'>57</text>
+<text x='573.34' y='359.15' text-anchor='middle' style='font-size: 9.60px;fill: #4D4D4D; font-family: "Arimo";' textLength='10.66px' lengthAdjust='spacingAndGlyphs'>62</text>
+<text x='324.90' y='372.39' text-anchor='middle' style='font-size: 12.00px; font-family: "Arimo";' textLength='196.72px' lengthAdjust='spacingAndGlyphs'>Age band (plotted at midpoint, years)</text>
+<text transform='translate(16.23,185.93) rotate(-90)' text-anchor='middle' style='font-size: 12.00px; font-family: "Arimo";' textLength='132.72px' lengthAdjust='spacingAndGlyphs'>Literate (weighted share)</text>
+<text x='7.97' y='16.23' style='font-size: 12.00px; font-weight: bold; font-family: "Arimo";' textLength='467.27px' lengthAdjust='spacingAndGlyphs'>In rural Sindh men are more literate than women at every age, by up to 42.5 points</text>
+<text x='7.97' y='386.37' style='font-size: 8.00px; font-family: "Arimo";' textLength='790.30px' lengthAdjust='spacingAndGlyphs'>Source: PSLM 2019-20, person and household files. Sample: persons aged 10-64 in rural Sindh with literate observed (n = 7,171). Weighted by hhweight. Hollow markers: fewer than 30 observations in that band for that sex.</text>
+</g>
+</g>
+</svg>
