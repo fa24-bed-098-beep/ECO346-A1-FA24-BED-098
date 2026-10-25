@@ -1,0 +1,7 @@
+students=1440
+weighted_median=4500
+unweighted_median=4295
+p10=1000
+p90=15500
+ratio=15.50
+excluded=1
