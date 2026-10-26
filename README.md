@@ -1,9 +1,13 @@
 # ECO346-A1-FA24-BED-098
 
-**Name: Zunaira Zahid**
+**Name:** Zunaira Zahid
+
 **Registration no.:** FA24-BED-098 
+
 **Section:** B
+
 **Variant:** 98 = 12 × 8 + 2, so **variant 2: Sindh, rural** (prov_code 3, urban_rural 1).
+
 
 Data: PSLM 2019–20 person and household files (`data/`). Everything is weighted by `hhweight`.
 To reproduce: run `scripts/01_default.R`, `02_distribution.R`, `03_literacy.R` (R) and `04_second_language.py` (Python) from the repository root.
