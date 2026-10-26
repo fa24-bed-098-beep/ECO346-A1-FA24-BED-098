@@ -40,8 +40,8 @@ p <- ggplot(tab, aes(mid, rate, colour = sex_lab, group = sex_lab)) +
   coord_cartesian(clip = "off") +
   labs(title = sprintf("In rural Sindh men are more literate than women at every age, by up to %.1f points", g$gap),
        x = "Age band (plotted at midpoint, years)", y = "Literate (weighted share)",
-       caption = paste0("Source: PSLM 2019-20, person and household files. Sample: persons aged 10-64 in rural Sindh with literate observed (n = ",
-                        comma(nrow(lit)), "). Weighted by hhweight. Hollow markers: fewer than 30 observations in that band for that sex.")) +
+       caption = wrap(paste0("Source: PSLM 2019-20, person and household files. Sample: persons aged 10-64 in rural Sindh with literate observed (n = ",
+                             comma(nrow(lit)), "). Weighted by hhweight. Hollow markers: fewer than 30 observations in that band for that sex."), 120)) +
   theme_minimal(base_size = 12) +
   theme(legend.position = "none", panel.grid.minor = element_blank(),
         plot.title = element_text(face = "bold", size = 12), plot.title.position = "plot",

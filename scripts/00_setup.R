@@ -6,7 +6,7 @@ for (f in c("figures", "tables")) dir.create(f, showWarnings = FALSE)
 
 persons <- read_csv("data/pslm_person_subset.csv", show_col_types = FALSE)
 hh      <- read_csv("data/pslm_hh_subset.csv", show_col_types = FALSE) |>
-           select(hhid, hhweight, prov_code, urban_rural)
+  select(hhid, hhweight, prov_code, urban_rural)
 
 # attach weight, province, area by hhid; keep only my variant
 d <- persons |> inner_join(hh, by = "hhid") |> filter(prov_code == PROV, urban_rural == AREA)
@@ -28,3 +28,6 @@ lit <- d |>
 
 # students: ed_total > 0
 students <- d |> filter(!is.na(ed_total), ed_total > 0)
+
+# break long titles/captions into lines so they do not run off the figure
+wrap <- function(x, width = 100) paste(strwrap(x, width = width), collapse = "\n")

@@ -27,13 +27,13 @@ p <- ggplot(inside, aes(x = lx, weight = hhweight)) +
            label = paste0("90th percentile\nRs ", comma(p90))) +
   scale_x_continuous(breaks = 2:6, limits = c(2, 6),
                      labels = c("Rs 100", "Rs 1,000", "Rs 10,000", "Rs 100,000", "Rs 1,000,000")) +
-  labs(title = paste0("Rural Sindh households spend about Rs ", comma(w_med),
-                      " a year on a typical student; one in ten spends Rs ", comma(p90), " or more"),
+  labs(title = wrap(paste0("Rural Sindh households spend about Rs ", comma(w_med),
+                           " a year on a typical student; one in ten spends Rs ", comma(p90), " or more"), 80),
        x = "Annual education spending per student (log scale)",
        y = "Density per log10 unit",
-       caption = paste0("Source: PSLM 2019-20, person and household files. Sample: ", comma(n_students),
-                        " students (ed_total > 0) in rural Sindh; ", n_excl,
-                        " outside Rs 100-1,000,000 excluded. Weighted by hhweight; bins 0.1 wide in log10.")) +
+       caption = wrap(paste0("Source: PSLM 2019-20, person and household files. Sample: ", comma(n_students),
+                             " students (ed_total > 0) in rural Sindh; ", n_excl,
+                             " outside Rs 100-1,000,000 excluded. Weighted by hhweight; bins 0.1 wide in log10."), 120)) +
   theme_minimal(base_size = 12) +
   theme(panel.grid.minor = element_blank(), plot.title = element_text(face = "bold", size = 12),
         plot.title.position = "plot", plot.caption = element_text(hjust = 0, size = 8),
