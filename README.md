@@ -1,4 +1,4 @@
-# ECO346-A1-FA24-BED-098
+# ECO346-A1-FA24-BEDS-098
 
 **Name:** Zunaira Zahid
 
